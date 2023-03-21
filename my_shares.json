@@ -1,0 +1,37 @@
+[
+  {
+    "S.N": "S.N",
+    "date": "BUSINESS_DATE",
+    "symbol": "SYMBOL",
+    "high": "HIGH_PRICE",
+    "low": "LOW_PRICE"
+  },
+  {
+    "S.N": "1",
+    "date": "2023-03-19",
+    "symbol": "CHCL",
+    "high": "471.0000",
+    "low": "463.2000"
+  },
+  {
+    "S.N": "2",
+    "date": "2023-03-19",
+    "symbol": "CBBL",
+    "high": "814.8000",
+    "low": "785.0000"
+  },
+  {
+    "S.N": "3",
+    "date": "2023-03-19",
+    "symbol": "HDL",
+    "high": "2050.0000",
+    "low": "1975.0000"
+  },
+  {
+    "S.N": "4",
+    "date": "2023-03-19",
+    "symbol": "JFL",
+    "high": "384.9000",
+    "low": "379.1000"
+  }
+]
